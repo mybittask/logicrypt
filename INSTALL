@@ -1,0 +1,9 @@
+Building LogiCrypt
+
+See doc/readme-qt.rst for instructions on building LogiCrypt-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of LogiCrypt.
+
+See doc/build-*.txt for instructions on building logicryptd,
+the intended-for-services, no-graphical-interface, reference
+implementation of LogiCrypt.
